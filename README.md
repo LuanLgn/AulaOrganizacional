@@ -35,4 +35,3 @@ _Ps: Como há acesso aos slides, irei fazer meus comentários sobre a aula e sob
 ### Organização no Windows
 - Manter a área de trabalho sempre limpa, evitando acumular ícones e arquivos.
 
-Essas são algumas das principais orientações e dicas compartilhadas durante a aula sobre organização digital.
